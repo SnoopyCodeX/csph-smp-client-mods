@@ -1,3 +1,5 @@
+![CSPH SMP Logo](./logo/csph_title.png)
+
 ## CodeSync PH SMP Client Mods
 
 These are the client mods required to be downloaded before you can join the server. *(This list will be updated if or when the server migrates to a newer version of minecraft in the future)*.
